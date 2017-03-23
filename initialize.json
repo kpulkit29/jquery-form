@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "categories": [
+    {
+      "category": "Arbitration",
+      "id": 10
+    },
+    {
+      "category": "Armed Forces Tribunal",
+      "id": 25
+    },
+    {
+      "category": "Banking",
+      "id": 12
+    },
+    {
+      "category": "Cheque Bounce",
+      "id": 2
+    },
+    {
+      "category": "Child Custody",
+      "id": 21
+    },
+    {
+      "category": "Civil",
+      "id": 1
+    },
+    {
+      "category": "Constitutional",
+      "id": 38
+    },
+    {
+      "category": "Consumer",
+      "id": 33
+    },
+    {
+      "category": "Copyright",
+      "id": 19
+    },
+    {
+      "category": "Corporate",
+      "id": 14
+    },
+    {
+      "category": "Criminal",
+      "id": 32
+    },
+    {
+      "category": "Customs and Central Exise",
+      "id": 35
+    },
+    {
+      "category": "Cyber Crime",
+      "id": 3
+    },
+    {
+      "category": "District Court",
+      "id": 31
+    },
+    {
+      "category": "Divorce",
+      "id": 11
+    },
+    {
+      "category": "Documentation",
+      "id": 4
+    },
+    {
+      "category": "Environment",
+      "id": 15
+    },
+    {
+      "category": "Family",
+      "id": 6
+    },
+    {
+      "category": "High Court",
+      "id": 29
+    },
+    {
+      "category": "Immigration",
+      "id": 24
+    },
+    {
+      "category": "Insurance",
+      "id": 9
+    },
+    {
+      "category": "Intellectual Property Right",
+      "id": 20
+    },
+    {
+      "category": "International Law",
+      "id": 5
+    },
+    {
+      "category": "Labour & Service",
+      "id": 27
+    },
+    {
+      "category": "Landlord Tenant",
+      "id": 7
+    },
+    {
+      "category": "Matrimonial",
+      "id": 36
+    },
+    {
+      "category": "Medical Negligence",
+      "id": 26
+    },
+    {
+      "category": "Motor Accident",
+      "id": 22
+    },
+    {
+      "category": "Muslim Law",
+      "id": 16
+    },
+    {
+      "category": "Property",
+      "id": 34
+    },
+    {
+      "category": "Recovery",
+      "id": 8
+    },
+    {
+      "category": "Revenue",
+      "id": 39
+    },
+    {
+      "category": "RTI",
+      "id": 23
+    },
+    {
+      "category": "Sexual Harassment",
+      "id": 30
+    },
+    {
+      "category": "Startup",
+      "id": 13
+    },
+    {
+      "category": "Supreme Court",
+      "id": 28
+    },
+    {
+      "category": "Tax",
+      "id": 18
+    },
+    {
+      "category": "Trademark",
+      "id": 37
+    },
+    {
+      "category": "Wills Trusts",
+      "id": 17
+    }
+  ],
+  "services": [
+    {
+      "subcategory_id": 4,
+      "service": "Administrative Law",
+      "id": 4
+    },
+    {
+      "subcategory_id": 5,
+      "service": "Alternative Dispute Resolution",
+      "id": 5
+    },
+    {
+      "subcategory_id": 1,
+      "service": "Appelate Litegation",
+      "id": 1
+    },
+    {
+      "subcategory_id": 2,
+      "service": "Bankrupcy",
+      "id": 2
+    },
+    {
+      "subcategory_id": 15,
+      "service": "Children's Law/Juvenile Justice",
+      "id": 15
+    },
+    {
+      "subcategory_id": 7,
+      "service": "Domestic Violence Law",
+      "id": 7
+    },
+    {
+      "subcategory_id": 9,
+      "service": "Family Law",
+      "id": 9
+    },
+    {
+      "subcategory_id": 11,
+      "service": "Government Contracts",
+      "id": 11
+    },
+    {
+      "subcategory_id": 12,
+      "service": "Health Law",
+      "id": 12
+    },
+    {
+      "subcategory_id": 3,
+      "service": "Immigration Law",
+      "id": 3
+    },
+    {
+      "subcategory_id": 6,
+      "service": "Intellectual Property Law",
+      "id": 6
+    },
+    {
+      "subcategory_id": 13,
+      "service": "Mergers and Acquisitions",
+      "id": 13
+    },
+    {
+      "subcategory_id": 14,
+      "service": "National Security Law",
+      "id": 14
+    },
+    {
+      "subcategory_id": 10,
+      "service": "Prisoners' Rights",
+      "id": 10
+    },
+    {
+      "subcategory_id": 8,
+      "service": "Women's Rights",
+      "id": 8
+    }
+  ],
+  "practicing_court": [
+    {
+      "id": 1,
+      "name": "District court"
+    },
+    {
+      "id": 2,
+      "name": "High court"
+    },
+    {
+      "id": 3,
+      "name": "Supreme court"
+    },
+    {
+      "id": 4,
+      "name": "Tribunal court"
+    },
+    {
+      "id": 5,
+      "name": "Consumer court"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "name": "Arbia"
+    },
+    {
+      "id": 2,
+      "name": "Hindi"
+    },
+    {
+      "id": 3,
+      "name": "English"
+    },
+    {
+      "id": 4,
+      "name": "Spanish"
+    },
+    {
+      "id": 5,
+      "name": "germen"
+    }
+  ]
+}
